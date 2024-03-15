@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://imgur.com/KFsSKKF",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "img": "https://imgur.com/R1JE38P",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["fiction", "LoremIpsum", "writing"]
+    },
+    {
+      "id": 2,
+      "cover": "https://imgur.com/R1JE38P",
+      "title": "The Art of Cooking",
+      "author": "Jane Smith",
+      "img": "https://imgur.com/R1JE38P",
+      "posted_date": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://imgur.com/R1JE38P",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "img": "https://imgur.com/R1JE38P",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["selfhelp", "mindfulness", "meditation"]
+    },
+    {
+      "id": 4,
+      "cover": "https://imgur.com/R1JE38P",
+      "title": "Space Exploration",
+      "author": "Elon Musk",
+      "img": "https://imgur.com/R1JE38P",
+      "posted_date": "2024-03-12",
+      "reading_time": 25,
+      "hashtags": ["space", "technology", "future"]
+    },
+    {
+      "id": 5,
+      "cover": "https://imgur.com/R1JE38P",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "img": "https://imgur.com/R1JE38P",
+      "posted_date": "2024-03-11",
+      "reading_time": 30,
+      "hashtags": ["strategy", "warfare", "leadership"]
+    }
+  ]
+  
